@@ -1,0 +1,29 @@
+step1: create react project ✔️
+step2: create Routing(HOME , BCA , MCA , BBA , MBA ,B.COM) ✔️
+step3: create NavBar ✔️
+step4: create Individual page ✔️
+step5:create store ✔️
+step6: fill data through store ✔️
+step7: add search bar in nav for name searching ✔️
+----------- Medium level-----------
+whe click on button go to payment page
+step8: create party invitation page and download party invitaion form
+step10: integrate payment if(success) invitation page  
+---------- Hard level -------------
+step11: Manage payment with react store + monogodb
+
+
+   store (all course students details)
+ <Courses/> ke ander
+ <Course name = {BCA} />
+ <Course name = {MCA} />
+ Course component ke pass store ka access rhta hai
+ input ke according course page build hoga 
+ ak array me sare BCA students ko filter out kr lenge 
+ fir fill kr lenge 
+ jaise ki nav me dikhega course ka name left me and middle me searchbar and right me status dikhega kitne batche paid hai aur kitne unpaid hai 
+
+ students ka data store me kuchh es prakar hoga
+ {name : 'Rishikesh gupta' , rollno : '118' , payment status: paid or unpaid }
+
+
